@@ -90,7 +90,7 @@ export default function Home() {
             </div>
 
             <div className="flex gap-2 items-center ml-3">
-              <img src={money_sm.src} alt="Result" className="h-8 mt-2" />
+              <img src={money_sm.src} alt="Result" className="h-8" />
               <h1 className="font-medium text-4xl tracking-tight">999,99</h1>
             </div>
           </section>
